@@ -3,6 +3,7 @@
 #include<string>
 #include<vector>
 using namespace std;
+//time : 
 
 // 트리를 이용해 상호 배제적 집합을 구현한다.
 struct OptimizedDisjointSet {
